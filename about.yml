@@ -1,10 +1,11 @@
 ---
-name: Ilona Maskova # ваше имя
+name: Galina Zander # ваше имя
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
+email: zgalina@mail.ru
 description: |
   Это текст-описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя
+  Люблю читать
 
   Текст может быть написан в несколько абзацев
 skills: # список навыков в виде списка, напишите что-то свое
