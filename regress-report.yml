@@ -50,7 +50,7 @@ test-cases:
 
 - summary: |
     Краткое описание тест-кейса. Проверка функциональности интерактивной ссылки "#beauty"
-  status: fail
+  status: pass
 
 bugreports:
   - summary: |
