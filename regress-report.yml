@@ -65,10 +65,6 @@ test-cases:
   status: pass
 
 - summary: |
-    Сортировка товара по ключевому слову на русском языке 
-  status: fail
-
-- summary: |
     Проверка описания товара 
   status: pass
 
